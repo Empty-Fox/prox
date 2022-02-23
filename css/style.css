@@ -14,6 +14,7 @@ body, html {
   margin: 0;
   touch-action: none;
   -ms-touch-action: none;
+  touch-action: pan-y;
 }
 body {
   background: #04080F;
